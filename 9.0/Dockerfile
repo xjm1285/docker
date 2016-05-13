@@ -7,6 +7,7 @@ RUN set -x; \
         && apt-get install -y --no-install-recommends \
             ca-certificates \
             curl \
+            less \
             node-less \
             node-clean-css \
             python-pyinotify \
